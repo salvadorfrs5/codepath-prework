@@ -1,6 +1,3 @@
-# codepath-prework
-Codepath Prework iOS Project
-
 # Prework - *Codepath Prework iOS*
 
 Submitted by: **Salvador Frias**
@@ -20,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhpeXduOXVrOHB2d2xjajdxbWx0bmk5azIyMmlieWQyMjhrdGF0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O4eYzLcM2TQKZ9YgBi/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
