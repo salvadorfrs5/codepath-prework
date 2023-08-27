@@ -21,18 +21,14 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
+Giphy
 ## App Brainstorming (Step 4)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-The principal challenge to this project was navigating between the various panels and choosing the correct format (iOS vs Multiplatform) for the project. 
+As a first-time Xcode user, the principal challenge was navigating the UI. 
 
 ## License
 
