@@ -2,7 +2,7 @@
 
 Submitted by: **Salvador Frias**
 
-**Button** is an app that... displays student's name, school, and current occupation.
+**"Button"** is an app that displays the student's name, school, and current occupation along with a button that, when pressed, changes the app's white background to a random color. 
 
 Time spent: **00:30** hours spent in total
 
